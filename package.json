@@ -26,11 +26,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LandmakTechnology/nodejs-application"
+    "url": "https://github.com/Blessing-Oboh-C36/nodejs-application"
   },
   "keywords": [
     "node",
-    "Landmark Technologies",
+    "Blessing-Oboh-C36",
     "express"
   ],
   "author": "Simon Legah",
